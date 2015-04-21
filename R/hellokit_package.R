@@ -1,1 +1,6 @@
-#' hellokit-package#'#' A Good Title#'#' A thorough description#'#' @name hellokit-package#' @docType packageNULL  
+#' hellokit-package
+#' A Good Title
+#' A thorough description
+#' @name hellokit-package
+#' @docType package
+NULL  
